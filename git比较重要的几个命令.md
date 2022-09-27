@@ -1,4 +1,3 @@
-```
 # 简单操作
 git add .
 git commit -m ""
@@ -29,12 +28,13 @@ git reflog 查看命令历史， 回到“未来”的版本
 git checkout -- 文件名 
 从版本库删除文件 git rm 文件名
 
+
+
 # 分支管理
+
+
 
 
 # 打标签
 
 
-
-
-```
